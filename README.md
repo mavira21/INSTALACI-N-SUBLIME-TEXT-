@@ -1,4 +1,10 @@
 # INSTALAR-PAQUETES-EN-SUBLIME-TEXT-3  
+
+Si no tuvieramos installado Sublime Text hay que ir a la página web oficial y descargarlo.  
+
+![](http://grabilla.com/05516-3ab6fda1-7ce0-4f1b-bd68-5ce76b6d672a.png)
+
+
 Comprobar que tenemos instalado el Package control (ctrl+shift+p), sino es así instalarlo desde esta [pagina](https://packagecontrol.io/installation).    
 
    ![](http://grabilla.com/0520d-f519a486-d25b-4703-af85-3eec40fd771f.png)
@@ -6,12 +12,7 @@ Comprobar que tenemos instalado el Package control (ctrl+shift+p), sino es así 
   
 Para ello debemos copiar el código del cuadro izquierdo para sublime text 2 o 3, dependiendo de nuestra versión, en el cuadro inferior de la consola de sublime text (show > console) después pulsar **ENTER**  
 
-Si no tuvieramos installado Sublime Text hay que ir a la página web oficial y descargarlo.  
-
-![](http://grabilla.com/05516-3ab6fda1-7ce0-4f1b-bd68-5ce76b6d672a.png)
-
 Reiniciar Sublime Text 3.  
-
 
 Abrimos el package control (ctrl+MAY+p) y empezamos a escribir "pa",  
 nos aparecerán varias opciones  
@@ -29,7 +30,7 @@ Para poder ver los snippets de que disponemos para Bootstrap ir al menú Tools y
 
 ###Cada vez que queramos instalar algo nuevo en sublime text hay que entrar en package control (ctrl+MAY+p) y al escribir "pa" seleccionamos "Package control: install package" y ENTER.  
 
-Instalar también el paquete sftp del mismo modo que los anteriores, reiniciar SB cada vez que instalamos un paquete.  
+Instalar también el paquete sftp del mismo modo que los anteriores, **reiniciar SB cada vez que instalamos un paquete.**    
 
 Recordar que para que emmet funcione hay que seleccionar la opción html en la parte inferior derecha de la pantalla.  
 
