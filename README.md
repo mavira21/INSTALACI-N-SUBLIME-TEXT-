@@ -16,9 +16,8 @@ Para ello debemos copiar el código del cuadro izquierdo para sublime text 2 o 3
 Reiniciar Sublime Text 3.  
 
 ### 2.- Abrimos el package control (ctrl+MAY+p)  
-Empezamos a escribir "pa"    
-nos aparecerán varias opciones  
-seleccionamos "Package control: install package" (Buscarlo en el menú PREFERENCES).  
+Empezamos a escribir "pa" -> nos aparecerán varias opciones-> seleccionamos "Package control: install package"  
+(Buscarlo en el menú PREFERENCES).  
 
 
 ![](http://grabilla.com/0520d-ded97eae-0ddf-4b16-b685-6e06f51ff6c2.png)  
@@ -31,7 +30,7 @@ seleccionamos "Package control: install package" (Buscarlo en el menú PREFERENC
 
 (Para poder ver los snippets de que disponemos para Bootstrap ir al menú Tools y seleccionar snippets)  
 
-```Cada vez que queramos instalar algo nuevo en sublime text hay que entrar en package control (ctrl+MAY+p) y al escribir "pa" seleccionamos "Package control: install package"-> ENTER -> escribir el nombre del paquete -> Enter -> Reiniciar SB. ``` 
+###```Cada vez que queramos instalar algo nuevo en sublime text hay que entrar en package control (ctrl+MAY+p) y al escribir "pa" seleccionamos "Package control: install package"-> ENTER -> escribir el nombre del paquete -> Enter -> Reiniciar SB. ``` 
 
 
 Instalar también el paquete sftp del mismo modo que los anteriores, **reiniciar SB cada vez que instalamos un paquete.**    
