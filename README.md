@@ -22,7 +22,7 @@ Empezamos a escribir "pa" -> nos aparecerán varias opciones-> seleccionamos "Pa
 
 ![](http://grabilla.com/0520d-ded97eae-0ddf-4b16-b685-6e06f51ff6c2.png)  
 
-### 3.- Escribir en el espacio superior el nombre del paquete que qeremos instalar.  
+### 3.- Escribir en el espacio superior el nombre del paquete que queremos instalar.  
 
 ![](http://grabilla.com/0520d-57fe0d4e-a3d1-406a-a895-4ac8f8b64181.png)
 
